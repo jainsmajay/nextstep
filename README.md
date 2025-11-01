@@ -1,0 +1,2 @@
+# nextstep
+django basic project
